@@ -48,7 +48,7 @@ npm start
 
 ### Connecting as User
 
-By default the bot connects to tte world as Guest.
+By default the bot connects to the world as Guest.
 
 If you want to connect as User, you need to provide the private key of the user account - you can [retrive the account private key in MetaMask](https://support.metamask.io/hc/en-us/articles/360015289632-How-to-export-an-account-s-private-key) then set it as environment variable:
 
